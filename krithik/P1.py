@@ -1,0 +1,22 @@
+t1=(10,20,30,20)
+print(t1)
+print(t1[0:2])
+print(len(t1))
+print(t1.index(30))
+print(t1.count(20))
+print(30 in t1)
+t2=(50,60,70,80)
+print(t1+t2)
+print(t1*2)
+print(min(t2))
+print(max(t2))
+t3=(9,8,5,7,1,2,9)
+print(sorted(t2))
+t4=(1,2,3)
+a,b,c=t4
+print(a)
+print(b)
+print(c)
+li=[1,2,3]
+print(tuple(li))
+
